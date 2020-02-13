@@ -1,0 +1,60 @@
+body {
+	background-color: rgb(220,220,220);
+	color: white;
+    font-family: "courier new";
+
+  color: rgb(30, 30, 30);
+	text-align: justify;
+	text-decoration: none;
+	margin: 400px;
+	border-top: 1px dotted black;
+border-right: 2px dotted black;
+border-bottom: 1px dotted black;
+border-left: 2px dotted black;
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+                   
+}
+
+.text-justify{text-align: justify;}
+  
+ .img-circle { border-radius: 50% }
+ 
+@media (max-width: 400px)
+
+
+
+ h1 { letter-spacing: 10x;
+	font-weight: 300;
+	font-family: helvetica;
+
+	}
+
+	h2  { color: red;
+ }
+
+ h3{ color: red;
+
+	}
+ a{ color: black
+
+ }
+ 
+
+ div{ border: 2px;
+	border-right: 50px
+	background-color grey
+
+box-shadow: 2px 2px 3px red;
+
+ }
+ 
+
+	
+
+
+
+
+
+
+
+
